@@ -30,3 +30,6 @@ lib/
 
 # apache RAT
 .rat-excludes
+
+#CRC files
+.crc
