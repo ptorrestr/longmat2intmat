@@ -32,4 +32,4 @@ lib/
 .rat-excludes
 
 #CRC files
-.crc
+*.crc
